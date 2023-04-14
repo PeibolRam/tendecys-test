@@ -1,0 +1,8 @@
+.order-number {
+  margin: .25em 0;
+}
+
+.order-number a {
+  text-decoration: underline;
+  color: #59a4c8;
+}
